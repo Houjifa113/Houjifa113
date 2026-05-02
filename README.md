@@ -29,7 +29,6 @@ Hi! I'm **Houjifa Hasan** — a student and curious learner who loves turning id
 
 <td width="40%" align="center">
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250"/>
 
 </td>
 </tr>
@@ -76,7 +75,14 @@ Hi! I'm **Houjifa Hasan** — a student and curious learner who loves turning id
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
-<img src="https://img.shields.io/badge/Thunder%20Client-4B32C3?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<h3 align="center">🛠️ Tools & Others</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Thunder%20Client-4B32C3?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
 
 <h3 align="center">🚀 Deployment & Hosting</h3>
 <p align="center">
