@@ -1,21 +1,39 @@
-<h1 align="center">Hi 👋, I'm Houjifa Hasan</h1>
+<!-- TOP BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0A66C2&height=200&section=header&text=Houjifa%20Hasan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=55&descSize=18"/>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;CSE+Student+@+AIUB;Building+Clean+%26+Scalable+Apps;Learning+Machine+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;CSE+Student+@+AIUB;Building+Modern+Web+Apps;Learning+Machine+Learning" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 💫 About Me
 
-<p align="center">
-🎓 CSE Student at <b>AIUB, Dhaka</b> <br>
-💻 Full-Stack Developer <br>
-🏥 Building Hospital Management System (Nest.js + Next.js + PostgreSQL) <br>
-🤖 Learning Machine Learning & LaTeX <br>
-🧪 API Testing with Postman <br>
-💬 Ask me about Web Dev, APIs, Databases
-</p>
+<table>
+<tr>
+<td width="60%">
+
+Hi! I'm **Houjifa Hasan** — a student and curious learner who loves turning ideas into clean, functional, and user-friendly applications.
+
+- 🎓 **CSE Student** at AIUB, Dhaka  
+- 💻 **Full-Stack Developer**  
+- 🏥 Building **Hospital Management System** (Nest.js + Next.js + PostgreSQL)  
+- 🤖 Learning **Machine Learning** & improving **LaTeX**  
+- 🧪 Testing REST APIs using **Postman**  
+- 😄 Enjoy fixing bugs that worked a minute ago  
+- 💬 Ask me about **Web Development, APIs, Databases**
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -85,6 +103,7 @@
 
 ---
 
+<!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0A66C2&height=120&section=footer"/>
 </p>
