@@ -47,8 +47,11 @@ Hi! I'm **Houjifa Hasan** — a student and curious learner who loves turning id
 ### ⚙️ Backend  
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php" />
 
-### 🗄️ Database  
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,oracle" />
+<h3>🗄️ Database</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="50" />
+</p>
 
 ### 🧑‍💻 Languages  
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs,r" />
