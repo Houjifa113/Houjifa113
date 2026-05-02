@@ -39,28 +39,28 @@ Hi! I'm **Houjifa Hasan** — a student and curious learner who loves turning id
 
 ## 🚀 Tech Stack
 
-h3 align="center">🌐 Frontend</h3>
+<h3 align="center">🌐 Frontend</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
 </p>
 
-h3 align="center">⚙️ Backend</h3>
+<h3 align="center">⚙️ Backend</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php" />
 </p>
 
-h3 align="center">🗄️ Database</h3> 
+<h3 align="center">🗄️ Database</h3> 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,oracle" />
 </p>
 
 
-h3 align="center">🧑‍💻 Languages</h3> 
+<h3 align="center">🧑‍💻 Languages</h3> 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs,r" />
 </p>
  
-h3 align="center">🛠️ Tools</h3> 
+<h3 align="center">🛠️ Tools</h3> 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vercel,postman" />
 </p>
