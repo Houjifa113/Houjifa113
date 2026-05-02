@@ -13,7 +13,8 @@
 
 <table>
 <tr>
-<td <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3F0aWNkc3JvNmVrYXM4cmRqcmxrM290bjNwbXkyMGt6eDc1ajVkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="60%""/>
+
+<td width="60%">
 
 Hi! I'm **Houjifa Hasan** — a student and curious learner who loves turning ideas into clean, functional, and user-friendly applications.
 
@@ -28,9 +29,9 @@ Hi! I'm **Houjifa Hasan** — a student and curious learner who loves turning id
 </td>
 
 <td width="40%" align="center">
-
-
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3F0aWNkc3JvNmVrYXM4cmRqcmxrM290bjNwbXkyMGt6eDc1ajVkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="100%" />
 </td>
+
 </tr>
 </table>
 
