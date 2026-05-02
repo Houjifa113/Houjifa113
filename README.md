@@ -24,7 +24,7 @@ Hi! I'm **Houjifa Hasan** — a student and curious learner who loves turning id
 -  Learning **Machine Learning** & improving **LaTeX**  
 -  Testing REST APIs using **Postman**  
 -  Enjoy fixing bugs that worked a minute ago  
-- 💬 Ask me about **Web Development, APIs, Databases**
+-  Ask me about **Web Development, APIs, Databases**
 
 </td>
 
