@@ -1,25 +1,49 @@
 <h1 align="center">Hi 👋, I'm Houjifa Hasan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;CSE+Student+@+AIUB;Building+Scalable+Apps;Learning+Machine+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;CSE+Student+@+AIUB;Building+Clean+%26+Scalable+Apps;Learning+Machine+Learning" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 CSE Student at **AIUB, Dhaka**
-- 💻 Full-Stack Developer  
-- 🏥 Building **Hospital Management System** (Nest.js + Next.js + PostgreSQL)
-- 🤖 Learning **Machine Learning** & **LaTeX**
-- 🧪 API testing with **Postman**
-- 💬 Ask me about **Web Dev, APIs, Databases**
+
+<p align="center">
+🎓 CSE Student at <b>AIUB, Dhaka</b> <br>
+💻 Full-Stack Developer <br>
+🏥 Building Hospital Management System (Nest.js + Next.js + PostgreSQL) <br>
+🤖 Learning Machine Learning & LaTeX <br>
+🧪 API Testing with Postman <br>
+💬 Ask me about Web Dev, APIs, Databases
+</p>
 
 ---
 
 ## 🚀 Tech Stack
 
+### 🌐 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,nestjs,php,python,java,cpp,cs,postgres,mongodb,oracle,git,github,vercel,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+</p>
+
+### ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php" />
+</p>
+
+### 🗄️ Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,oracle" />
+</p>
+
+### 🧑‍💻 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs,r" />
+</p>
+
+### 🛠️ Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,postman" />
 </p>
 
 ---
@@ -27,12 +51,12 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Houjifa113&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Houjifa113&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Houjifa113&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -40,22 +64,22 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Houjifa113/Houjifa113/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://facebook.com/YOUR_PROFILE">
-    <img src="https://img.shields.io/badge/Facebook-animated?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=facebook" />
   </a>
   <a href="https://linkedin.com/in/YOUR_PROFILE">
-    <img src="https://img.shields.io/badge/LinkedIn-connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-send-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
