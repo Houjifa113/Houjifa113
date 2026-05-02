@@ -37,33 +37,26 @@ Hi! I'm **Houjifa Hasan** — a student and curious learner who loves turning id
 
 ---
 
+<div align="center">
+
 ## 🚀 Tech Stack
 
-<h3 align="center">🌐 Frontend</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
-</p>
+### 🌐 Frontend  
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
 
-<h3 align="center">⚙️ Backend</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php" />
-</p>
+### ⚙️ Backend  
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php" />
 
-<h3 align="center">🗄️ Database</h3> 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,oracle" />
-</p>
+### 🗄️ Database  
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,oracle" />
 
+### 🧑‍💻 Languages  
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs,r" />
 
-<h3 align="center">🧑‍💻 Languages</h3> 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs,r" />
-</p>
- 
-<h3 align="center">🛠️ Tools</h3> 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,postman" />
-</p>
+### 🛠️ Tools  
+<img src="https://skillicons.dev/icons?i=git,github,vercel,postman" />
+
+</div>
 
 ---
 
