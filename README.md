@@ -39,7 +39,7 @@ Hi! I'm **Houjifa Hasan** — a student and curious learner who loves turning id
 
 ## 🚀 Tech Stack
 
-### 🧑‍💻 Languages
+<h3 align="center">🧑‍💻 Languages</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"/>
@@ -52,9 +52,7 @@ Hi! I'm **Houjifa Hasan** — a student and curious learner who loves turning id
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
----
-
-### 🌐 Frontend
+<h3 align="center">🌐 Frontend</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -63,18 +61,14 @@ Hi! I'm **Houjifa Hasan** — a student and curious learner who loves turning id
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 </p>
 
----
-
-### ⚙️ Backend
+<h3 align="center">⚙️ Backend</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
 </p>
 
----
-
-### 🗄️ Databases
+<h3 align="center">🗄️ Databases</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -82,9 +76,7 @@ Hi! I'm **Houjifa Hasan** — a student and curious learner who loves turning id
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
----
-
-### 🛠️ Tools & Others
+<h3 align="center">🛠️ Tools & Others</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -92,13 +84,10 @@ Hi! I'm **Houjifa Hasan** — a student and curious learner who loves turning id
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
----
-
-### 🚀 Deployment & Hosting
+<h3 align="center">🚀 Deployment & Hosting</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
-
 ---
 
 ## 📊 GitHub Activity
