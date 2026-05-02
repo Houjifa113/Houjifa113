@@ -40,27 +40,27 @@ Hi! I'm **Houjifa Hasan** — a student and curious learner who loves turning id
 ## 🚀 Tech Stack
 
 ### 🌐 Frontend
-<p align="center">
+<p align="right">
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
 </p>
 
 ### ⚙️ Backend
-<p align="center">
+<p align="right">
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php" />
 </p>
 
 ### 🗄️ Database
-<p align="center">
+<p align="right">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,oracle" />
 </p>
 
 ### 🧑‍💻 Languages
-<p align="center">
+<p align="right">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs,r" />
 </p>
 
 ### 🛠️ Tools
-<p align="center">
+<p align="right">
   <img src="https://skillicons.dev/icons?i=git,github,vercel,postman" />
 </p>
 
@@ -75,14 +75,6 @@ Hi! I'm **Houjifa Hasan** — a student and curious learner who loves turning id
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Houjifa113&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Houjifa113/Houjifa113/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
