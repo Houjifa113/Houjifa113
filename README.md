@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Houjifa Hasan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;CSE+Student+@+AIUB;Building+Real+World+Projects;Learning+Machine+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;CSE+Student+@+AIUB;Building+Scalable+Apps;Learning+Machine+Learning" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 - 🎓 CSE Student at **AIUB, Dhaka**
-- 💻 Full-Stack Developer who loves clean & user-friendly apps  
+- 💻 Full-Stack Developer  
 - 🏥 Building **Hospital Management System** (Nest.js + Next.js + PostgreSQL)
-- 🤖 Learning **Machine Learning** & improving **LaTeX**
+- 🤖 Learning **Machine Learning** & **LaTeX**
 - 🧪 API testing with **Postman**
 - 💬 Ask me about **Web Dev, APIs, Databases**
 
@@ -18,29 +18,8 @@
 
 ## 🚀 Tech Stack
 
-### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php" />
-</p>
-
-### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,oracle" />
-</p>
-
-### 🧑‍💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs,r" />
-</p>
-
-### 🛠️ Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,postman" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,nestjs,php,python,java,cpp,cs,postgres,mongodb,oracle,git,github,vercel,postman" />
 </p>
 
 ---
@@ -53,22 +32,16 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake (Animation)
+## 🐍 Contribution Snake
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
 </p>
-
----
-
-## 🌱 Current Focus
-- 🔹 Scalable backend with Nest.js  
-- 🔹 API security & optimization  
-- 🔹 Machine Learning basics  
 
 ---
 
@@ -76,17 +49,18 @@
 
 <p align="center">
   <a href="https://facebook.com/YOUR_PROFILE">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Facebook-animated?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/YOUR_PROFILE">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-send-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## ⚡ Fun Fact
-> I enjoy transforming ideas into real-world applications 🚀
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0A66C2&height=120&section=footer"/>
+</p>
