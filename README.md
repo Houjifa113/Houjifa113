@@ -95,12 +95,12 @@ Hi! I'm **Houjifa Hasan** — a student and curious learner who loves turning id
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Houjifa113&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=Houjifa113&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Houjifa113&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Houjifa113&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Houjifa113&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Houjifa113&theme=tokyonight" />
 </p>
 
 ---
